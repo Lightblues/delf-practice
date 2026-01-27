@@ -1,0 +1,375 @@
+{
+  "section": "Comprehension_des_ecrits",
+  "exercises": {
+    "Exercice_I": {
+      "num_activities": 16,
+      "pages_per_activity": 2,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_I/Activite_1.pdf",
+          "pages": [
+            62,
+            63
+          ]
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_I/Activite_2.pdf",
+          "pages": [
+            64,
+            65
+          ]
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_I/Activite_3.pdf",
+          "pages": [
+            66,
+            67
+          ]
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_I/Activite_4.pdf",
+          "pages": [
+            68,
+            69
+          ]
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_I/Activite_5.pdf",
+          "pages": [
+            70,
+            71
+          ]
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_I/Activite_6.pdf",
+          "pages": [
+            72,
+            73
+          ]
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_I/Activite_7.pdf",
+          "pages": [
+            74,
+            75
+          ]
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_I/Activite_8.pdf",
+          "pages": [
+            76,
+            77
+          ]
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_I/Activite_9.pdf",
+          "pages": [
+            78,
+            79
+          ]
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_I/Activite_10.pdf",
+          "pages": [
+            80,
+            81
+          ]
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_I/Activite_11.pdf",
+          "pages": [
+            82,
+            83
+          ]
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_I/Activite_12.pdf",
+          "pages": [
+            84,
+            85
+          ]
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_I/Activite_13.pdf",
+          "pages": [
+            86,
+            87
+          ]
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_I/Activite_14.pdf",
+          "pages": [
+            88,
+            89
+          ]
+        },
+        {
+          "name": "Activite_15",
+          "file": "Exercice_I/Activite_15.pdf",
+          "pages": [
+            90,
+            91
+          ]
+        },
+        {
+          "name": "Activite_16",
+          "file": "Exercice_I/Activite_16.pdf",
+          "pages": [
+            92,
+            93
+          ]
+        }
+      ]
+    },
+    "Exercice_II": {
+      "num_activities": 14,
+      "pages_per_activity": 2,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_II/Activite_1.pdf",
+          "pages": [
+            94,
+            95
+          ]
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_II/Activite_2.pdf",
+          "pages": [
+            96,
+            97
+          ]
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_II/Activite_3.pdf",
+          "pages": [
+            98,
+            99
+          ]
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_II/Activite_4.pdf",
+          "pages": [
+            100,
+            101
+          ]
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_II/Activite_5.pdf",
+          "pages": [
+            102,
+            103
+          ]
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_II/Activite_6.pdf",
+          "pages": [
+            104,
+            105
+          ]
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_II/Activite_7.pdf",
+          "pages": [
+            106,
+            107
+          ]
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_II/Activite_8.pdf",
+          "pages": [
+            108,
+            109
+          ]
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_II/Activite_9.pdf",
+          "pages": [
+            110,
+            111
+          ]
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_II/Activite_10.pdf",
+          "pages": [
+            112,
+            113
+          ]
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_II/Activite_11.pdf",
+          "pages": [
+            114,
+            115
+          ]
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_II/Activite_12.pdf",
+          "pages": [
+            116,
+            117
+          ]
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_II/Activite_13.pdf",
+          "pages": [
+            118,
+            119
+          ]
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_II/Activite_14.pdf",
+          "pages": [
+            120,
+            121
+          ]
+        }
+      ]
+    },
+    "Exercice_III": {
+      "num_activities": 16,
+      "pages_per_activity": 1,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_III/Activite_1.pdf",
+          "pages": [
+            122
+          ]
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_III/Activite_2.pdf",
+          "pages": [
+            123
+          ]
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_III/Activite_3.pdf",
+          "pages": [
+            124
+          ]
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_III/Activite_4.pdf",
+          "pages": [
+            125
+          ]
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_III/Activite_5.pdf",
+          "pages": [
+            126
+          ]
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_III/Activite_6.pdf",
+          "pages": [
+            127
+          ]
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_III/Activite_7.pdf",
+          "pages": [
+            128
+          ]
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_III/Activite_8.pdf",
+          "pages": [
+            129
+          ]
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_III/Activite_9.pdf",
+          "pages": [
+            130
+          ]
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_III/Activite_10.pdf",
+          "pages": [
+            131
+          ]
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_III/Activite_11.pdf",
+          "pages": [
+            132
+          ]
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_III/Activite_12.pdf",
+          "pages": [
+            133
+          ]
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_III/Activite_13.pdf",
+          "pages": [
+            134
+          ]
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_III/Activite_14.pdf",
+          "pages": [
+            135
+          ]
+        },
+        {
+          "name": "Activite_15",
+          "file": "Exercice_III/Activite_15.pdf",
+          "pages": [
+            136
+          ]
+        },
+        {
+          "name": "Activite_16",
+          "file": "Exercice_III/Activite_16.pdf",
+          "pages": [
+            137
+          ]
+        }
+      ]
+    }
+  }
+}

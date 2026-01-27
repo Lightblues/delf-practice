@@ -1,0 +1,9 @@
+out/
+node_modules/
+dist/
+
+# Binary resources (downloaded from GitHub Release)
+resources/data/part-a/Audio/
+resources/data/part-a/Transcripts/
+resources/data/part-a/Exercice_*/
+resources/data/part-b/Exercice_*/

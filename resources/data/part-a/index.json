@@ -1,0 +1,460 @@
+{
+  "section": "Comprehension_orale",
+  "exercises": {
+    "Exercice_I": {
+      "num_activities": 16,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_I/Activite_1.pdf",
+          "pages": [
+            15
+          ],
+          "audio": "Audio/039805_004.mp3",
+          "transcript": "Transcripts/Transcript4.pdf"
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_I/Activite_2.pdf",
+          "pages": [
+            16
+          ],
+          "audio": "Audio/039805_005.mp3",
+          "transcript": "Transcripts/Transcript5.pdf"
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_I/Activite_3.pdf",
+          "pages": [
+            16,
+            17
+          ],
+          "audio": "Audio/039805_006.mp3",
+          "transcript": "Transcripts/Transcript6.pdf"
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_I/Activite_4.pdf",
+          "pages": [
+            17,
+            18
+          ],
+          "audio": "Audio/039805_007.mp3",
+          "transcript": "Transcripts/Transcript7.pdf"
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_I/Activite_5.pdf",
+          "pages": [
+            18,
+            19
+          ],
+          "audio": "Audio/039805_008.mp3",
+          "transcript": "Transcripts/Transcript8.pdf"
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_I/Activite_6.pdf",
+          "pages": [
+            19
+          ],
+          "audio": "Audio/039805_009.mp3",
+          "transcript": "Transcripts/Transcript9.pdf"
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_I/Activite_7.pdf",
+          "pages": [
+            20
+          ],
+          "audio": "Audio/039805_010.mp3",
+          "transcript": "Transcripts/Transcript10.pdf"
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_I/Activite_8.pdf",
+          "pages": [
+            20,
+            21
+          ],
+          "audio": "Audio/039805_011.mp3",
+          "transcript": "Transcripts/Transcript11.pdf"
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_I/Activite_9.pdf",
+          "pages": [
+            21,
+            22
+          ],
+          "audio": "Audio/039805_012.mp3",
+          "transcript": "Transcripts/Transcript12.pdf"
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_I/Activite_10.pdf",
+          "pages": [
+            22,
+            23
+          ],
+          "audio": "Audio/039805_013.mp3",
+          "transcript": "Transcripts/Transcript13.pdf"
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_I/Activite_11.pdf",
+          "pages": [
+            23
+          ],
+          "audio": "Audio/039805_014.mp3",
+          "transcript": "Transcripts/Transcript14.pdf"
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_I/Activite_12.pdf",
+          "pages": [
+            24
+          ],
+          "audio": "Audio/039805_015.mp3",
+          "transcript": "Transcripts/Transcript15.pdf"
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_I/Activite_13.pdf",
+          "pages": [
+            24,
+            25
+          ],
+          "audio": "Audio/039805_016.mp3",
+          "transcript": "Transcripts/Transcript16.pdf"
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_I/Activite_14.pdf",
+          "pages": [
+            25,
+            26
+          ],
+          "audio": "Audio/039805_017.mp3",
+          "transcript": "Transcripts/Transcript17.pdf"
+        },
+        {
+          "name": "Activite_15",
+          "file": "Exercice_I/Activite_15.pdf",
+          "pages": [
+            26,
+            27
+          ],
+          "audio": "Audio/039805_018.mp3",
+          "transcript": "Transcripts/Transcript18.pdf"
+        },
+        {
+          "name": "Activite_16",
+          "file": "Exercice_I/Activite_16.pdf",
+          "pages": [
+            27
+          ],
+          "audio": "Audio/039805_019.mp3",
+          "transcript": "Transcripts/Transcript19.pdf"
+        }
+      ]
+    },
+    "Exercice_II": {
+      "num_activities": 14,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_II/Activite_1.pdf",
+          "pages": [
+            28
+          ],
+          "audio": "Audio/039805_020.mp3",
+          "transcript": "Transcripts/Transcript20.pdf"
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_II/Activite_2.pdf",
+          "pages": [
+            29
+          ],
+          "audio": "Audio/039805_021.mp3",
+          "transcript": "Transcripts/Transcript21.pdf"
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_II/Activite_3.pdf",
+          "pages": [
+            29,
+            30
+          ],
+          "audio": "Audio/039805_022.mp3",
+          "transcript": "Transcripts/Transcript22.pdf"
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_II/Activite_4.pdf",
+          "pages": [
+            30,
+            31
+          ],
+          "audio": "Audio/039805_023.mp3",
+          "transcript": "Transcripts/Transcript23.pdf"
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_II/Activite_5.pdf",
+          "pages": [
+            31,
+            32
+          ],
+          "audio": "Audio/039805_024.mp3",
+          "transcript": "Transcripts/Transcript24.pdf"
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_II/Activite_6.pdf",
+          "pages": [
+            32,
+            33
+          ],
+          "audio": "Audio/039805_025.mp3",
+          "transcript": "Transcripts/Transcript25.pdf"
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_II/Activite_7.pdf",
+          "pages": [
+            33
+          ],
+          "audio": "Audio/039805_026.mp3",
+          "transcript": "Transcripts/Transcript26.pdf"
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_II/Activite_8.pdf",
+          "pages": [
+            34
+          ],
+          "audio": "Audio/039805_027.mp3",
+          "transcript": "Transcripts/Transcript27.pdf"
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_II/Activite_9.pdf",
+          "pages": [
+            34,
+            35
+          ],
+          "audio": "Audio/039805_028.mp3",
+          "transcript": "Transcripts/Transcript28.pdf"
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_II/Activite_10.pdf",
+          "pages": [
+            35,
+            36
+          ],
+          "audio": "Audio/039805_029.mp3",
+          "transcript": "Transcripts/Transcript29.pdf"
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_II/Activite_11.pdf",
+          "pages": [
+            36,
+            37
+          ],
+          "audio": "Audio/039805_030.mp3",
+          "transcript": "Transcripts/Transcript30.pdf"
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_II/Activite_12.pdf",
+          "pages": [
+            37
+          ],
+          "audio": "Audio/039805_031.mp3",
+          "transcript": "Transcripts/Transcript31.pdf"
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_II/Activite_13.pdf",
+          "pages": [
+            38
+          ],
+          "audio": "Audio/039805_032.mp3",
+          "transcript": "Transcripts/Transcript32.pdf"
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_II/Activite_14.pdf",
+          "pages": [
+            38,
+            39
+          ],
+          "audio": "Audio/039805_033.mp3",
+          "transcript": "Transcripts/Transcript33.pdf"
+        }
+      ]
+    },
+    "Exercice_III": {
+      "num_activities": 16,
+      "activities": [
+        {
+          "name": "Activite_1",
+          "file": "Exercice_III/Activite_1.pdf",
+          "pages": [
+            39,
+            40
+          ],
+          "audio": "Audio/039805_034.mp3",
+          "transcript": "Transcripts/Transcript34.pdf"
+        },
+        {
+          "name": "Activite_2",
+          "file": "Exercice_III/Activite_2.pdf",
+          "pages": [
+            40,
+            41
+          ],
+          "audio": "Audio/039805_035.mp3",
+          "transcript": "Transcripts/Transcript35.pdf"
+        },
+        {
+          "name": "Activite_3",
+          "file": "Exercice_III/Activite_3.pdf",
+          "pages": [
+            41
+          ],
+          "audio": "Audio/039805_036.mp3",
+          "transcript": "Transcripts/Transcript36.pdf"
+        },
+        {
+          "name": "Activite_4",
+          "file": "Exercice_III/Activite_4.pdf",
+          "pages": [
+            42
+          ],
+          "audio": "Audio/039805_037.mp3",
+          "transcript": "Transcripts/Transcript37.pdf"
+        },
+        {
+          "name": "Activite_5",
+          "file": "Exercice_III/Activite_5.pdf",
+          "pages": [
+            42,
+            43
+          ],
+          "audio": "Audio/039805_038.mp3",
+          "transcript": "Transcripts/Transcript38.pdf"
+        },
+        {
+          "name": "Activite_6",
+          "file": "Exercice_III/Activite_6.pdf",
+          "pages": [
+            43,
+            44
+          ],
+          "audio": "Audio/039805_039.mp3",
+          "transcript": "Transcripts/Transcript39.pdf"
+        },
+        {
+          "name": "Activite_7",
+          "file": "Exercice_III/Activite_7.pdf",
+          "pages": [
+            44
+          ],
+          "audio": "Audio/039805_040.mp3",
+          "transcript": "Transcripts/Transcript40.pdf"
+        },
+        {
+          "name": "Activite_8",
+          "file": "Exercice_III/Activite_8.pdf",
+          "pages": [
+            45
+          ],
+          "audio": "Audio/039805_041.mp3",
+          "transcript": "Transcripts/Transcript41.pdf"
+        },
+        {
+          "name": "Activite_9",
+          "file": "Exercice_III/Activite_9.pdf",
+          "pages": [
+            45,
+            46
+          ],
+          "audio": "Audio/039805_042.mp3",
+          "transcript": "Transcripts/Transcript42.pdf"
+        },
+        {
+          "name": "Activite_10",
+          "file": "Exercice_III/Activite_10.pdf",
+          "pages": [
+            46,
+            47
+          ],
+          "audio": "Audio/039805_043.mp3",
+          "transcript": "Transcripts/Transcript43.pdf"
+        },
+        {
+          "name": "Activite_11",
+          "file": "Exercice_III/Activite_11.pdf",
+          "pages": [
+            47
+          ],
+          "audio": "Audio/039805_044.mp3",
+          "transcript": "Transcripts/Transcript44.pdf"
+        },
+        {
+          "name": "Activite_12",
+          "file": "Exercice_III/Activite_12.pdf",
+          "pages": [
+            48
+          ],
+          "audio": "Audio/039805_045.mp3",
+          "transcript": "Transcripts/Transcript45.pdf"
+        },
+        {
+          "name": "Activite_13",
+          "file": "Exercice_III/Activite_13.pdf",
+          "pages": [
+            48,
+            49
+          ],
+          "audio": "Audio/039805_046.mp3",
+          "transcript": "Transcripts/Transcript46.pdf"
+        },
+        {
+          "name": "Activite_14",
+          "file": "Exercice_III/Activite_14.pdf",
+          "pages": [
+            49,
+            50
+          ],
+          "audio": "Audio/039805_047.mp3",
+          "transcript": "Transcripts/Transcript47.pdf"
+        },
+        {
+          "name": "Activite_15",
+          "file": "Exercice_III/Activite_15.pdf",
+          "pages": [
+            50,
+            51
+          ],
+          "audio": "Audio/039805_048.mp3",
+          "transcript": "Transcripts/Transcript48.pdf"
+        },
+        {
+          "name": "Activite_16",
+          "file": "Exercice_III/Activite_16.pdf",
+          "pages": [
+            51
+          ],
+          "audio": "Audio/039805_049.mp3",
+          "transcript": "Transcripts/Transcript49.pdf"
+        }
+      ]
+    }
+  }
+}
