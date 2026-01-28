@@ -1,6 +1,6 @@
 {
   "name": "delf-practice",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "description": "DELF B2 Exam Practice App",
   "repository": {
     "type": "git",
@@ -42,7 +42,11 @@
     "appId": "com.ea.delf-practice",
     "productName": "DELF Practice",
     "publish": null,
+    "directories": {
+      "buildResources": "build"
+    },
     "mac": {
+      "icon": "build/icon.icns",
       "category": "public.app-category.education",
       "target": [
         {

@@ -1,14 +1,17 @@
 """Extract reading comprehension exercises from DELF B2 PDF."""
+
 import json
 from pathlib import Path
+
 from pypdf import PdfReader, PdfWriter
 
 # Exercise structure: (start_page, pages_per_activity, num_activities)
 EXERCISES = {
-    "Exercice_I": (62, 2, 16),    # pages 62-93, 2 pages each, 16 activities
-    "Exercice_II": (94, 2, 14),   # pages 94-121, 2 pages each, 14 activities
-    "Exercice_III": (122, 1, 16), # pages 122-138, 1 page each (simplified)
+    "Exercice_I": (62, 2, 16),  # pages 62-93, 2 pages each, 16 activities
+    "Exercice_II": (94, 2, 14),  # pages 94-121, 2 pages each, 14 activities
+    "Exercice_III": (122, 1, 16),  # pages 122-138, 1 page each (simplified)
 }
+
 
 def extract_activity(reader: PdfReader, start_page: int, num_pages: int) -> PdfWriter:
     """Extract pages for a single activity."""
@@ -17,6 +20,7 @@ def extract_activity(reader: PdfReader, start_page: int, num_pages: int) -> PdfW
         page_idx = start_page - 1 + i  # Convert to 0-indexed
         writer.add_page(reader.pages[page_idx])
     return writer
+
 
 def extract_comprehension(input_path: Path, output_dir: Path):
     """Extract all reading comprehension exercises."""
@@ -43,11 +47,13 @@ def extract_comprehension(input_path: Path, output_dir: Path):
             with open(output_path, "wb") as f:
                 writer.write(f)
 
-            activities.append({
-                "name": act_name,
-                "file": f"{ex_name}/{act_name}.pdf",
-                "pages": list(range(current_page, current_page + pages_per_act)),
-            })
+            activities.append(
+                {
+                    "name": act_name,
+                    "file": f"{ex_name}/{act_name}.pdf",
+                    "pages": list(range(current_page, current_page + pages_per_act)),
+                }
+            )
             print(f"  {act_name}: pages {current_page}-{current_page + pages_per_act - 1}")
             current_page += pages_per_act
 
@@ -62,6 +68,7 @@ def extract_comprehension(input_path: Path, output_dir: Path):
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2, ensure_ascii=False)
     print(f"\nIndex written to: {index_path}")
+
 
 if __name__ == "__main__":
     project_root = Path(__file__).parent.parent.parent.parent
