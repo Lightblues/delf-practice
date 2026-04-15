@@ -1,0 +1,56 @@
+{
+  "Comprehension_orale": {
+    "Exercice_I": {
+      "Activite_1": ["B", "A", "A", "C", "C", "C", "C"],
+      "Activite_2": ["A", "C", "A", "B", "A", "C", "A"],
+      "Activite_3": ["A", "A", "C", "B", "A", "B", "B"],
+      "Activite_4": ["A", "A", "B", "C", "A", "C", "B"],
+      "Activite_5": ["C", "A", "B", "A", "C", "A", "C"],
+      "Activite_6": ["A", "A", "A", "B", "A", "B", "C"],
+      "Activite_7": ["B", "B", "A", "C", "A", "C", "C"],
+      "Activite_8": ["C", "B", "C", "A", "C", "C", "A"],
+      "Activite_9": ["A", "B", "B", "C", "B", "C", "B"],
+      "Activite_10": ["A", "C", "A", "B", "A", "C", "C"],
+      "Activite_11": ["B", "A", "A", "C", "A", "A", "C"],
+      "Activite_12": ["C", "C", "A", "C", "C", "B", "B"],
+      "Activite_13": ["C", "C", "B", "C", "B", "A", "C"],
+      "Activite_14": ["A", "C", "A", "B", "B", "C", "C"],
+      "Activite_15": ["C", "A", "C", "B", "A", "C", "C"],
+      "Activite_16": ["C", "B", "B", "C", "B", "C", "A"]
+    },
+    "Exercice_II": {
+      "Activite_1": ["C", "A", "B", "A", "A", "C", "B"],
+      "Activite_2": ["A", "B", "A", "C", "A", "A", "B"],
+      "Activite_3": ["A", "C", "B", "A", "C", "B", "A"],
+      "Activite_4": ["A", "B", "A", "B", "A", "C", "B"],
+      "Activite_5": ["C", "A", "C", "A", "C", "C", "B"],
+      "Activite_6": ["A", "C", "A", "C", "A", "C", "B"],
+      "Activite_7": ["B", "A", "C", "B", "C", "A", "A"],
+      "Activite_8": ["A", "B", "A", "C", "C", "A", "C"],
+      "Activite_9": ["C", "A", "A", "B", "B", "A", "C"],
+      "Activite_10": ["A", "B", "A", "C", "A", "B", "C"],
+      "Activite_11": ["B", "C", "A", "B", "B", "A", "C"],
+      "Activite_12": ["B", "B", "C", "B", "A", "C", "B"],
+      "Activite_13": ["C", "C", "B", "B", "A", "B", "C"],
+      "Activite_14": ["A", "B", "B", "A", "C", "C", "A"]
+    },
+    "Exercice_III": {
+      "Activite_1": ["C", "B", "B", "B", "B", "A"],
+      "Activite_2": ["A", "A", "B", "A", "C", "B"],
+      "Activite_3": ["B", "B", "A", "C", "A", "A"],
+      "Activite_4": ["A", "C", "A", "B", "B", "C"],
+      "Activite_5": ["B", "A", "C", "A", "B", "C"],
+      "Activite_6": ["B", "B", "C", "B", "B", "C"],
+      "Activite_7": ["A", "A", "B", "C", "C", "A"],
+      "Activite_8": ["B", "B", "C", "A", "B", "C"],
+      "Activite_9": ["C", "B", "C", "B", "A", "C"],
+      "Activite_10": ["A", "B", "B", "A", "A", "C"],
+      "Activite_11": ["C", "B", "B", "A", "A", "B"],
+      "Activite_12": ["A", "B", "C", "B", "A", "B"],
+      "Activite_13": ["B", "A", "B", "C", "B", "C"],
+      "Activite_14": ["A", "B", "C", "B", "B", "A"],
+      "Activite_15": ["A", "C", "B", "A", "B", "B"],
+      "Activite_16": ["A", "B", "C", "C", "A", "B"]
+    }
+  }
+}

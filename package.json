@@ -1,0 +1,101 @@
+{
+  "name": "delf-practice",
+  "version": "0.4.3",
+  "description": "DELF B2 Exam Practice App",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lightblues/easons_agent.git",
+    "directory": "packages/delf"
+  },
+  "main": "./out/main/index.js",
+  "author": "Eason",
+  "license": "MIT",
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "preview": "electron-vite preview",
+    "postinstall": "electron-builder install-app-deps",
+    "build:mac": "npm run build && electron-builder --mac --arm64",
+    "build:mac:all": "npm run build && electron-builder --mac",
+    "sync:binary": "cd resources/data && rm -rf part-a/Audio part-a/Transcripts part-a/Exercice_* part-b/Exercice_* && cp -r ../../../../.ea/delf/data/extracted/part-a/Audio ../../../../.ea/delf/data/extracted/part-a/Transcripts ../../../../.ea/delf/data/extracted/part-a/Exercice_* part-a/ && cp -r ../../../../.ea/delf/data/extracted/part-b/Exercice_* part-b/",
+    "download:resources": "./scripts/download_resources.sh"
+  },
+  "dependencies": {
+    "pdfjs-dist": "^4.0.379",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.10",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/uuid": "^9.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^33.2.1",
+    "electron-builder": "^25.1.8",
+    "electron-vite": "^2.3.0",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11"
+  },
+  "build": {
+    "appId": "com.ea.delf-practice",
+    "productName": "DELF Practice",
+    "publish": null,
+    "directories": {
+      "buildResources": "build"
+    },
+    "mac": {
+      "icon": "build/icon.icns",
+      "category": "public.app-category.education",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64",
+            "x64"
+          ]
+        }
+      ]
+    },
+    "dmg": {
+      "artifactName": "${productName}-${version}-${arch}.dmg",
+      "contents": [
+        {
+          "x": 130,
+          "y": 180,
+          "type": "file"
+        },
+        {
+          "x": 410,
+          "y": 180,
+          "type": "link",
+          "path": "/Applications"
+        },
+        {
+          "x": 180,
+          "y": 360,
+          "type": "file",
+          "path": "scripts/install.sh"
+        },
+        {
+          "x": 360,
+          "y": 360,
+          "type": "file",
+          "path": "scripts/README.txt",
+          "name": "安装说明.txt"
+        }
+      ]
+    },
+    "files": [
+      "out/**/*",
+      "resources/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "resources/data",
+        "to": "data"
+      }
+    ]
+  }
+}

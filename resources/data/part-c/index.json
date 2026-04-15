@@ -1,0 +1,338 @@
+{
+  "section": "Production_ecrite",
+  "exercises": {
+    "formal_letter": {
+      "title": "Correspondance formelle",
+      "num_activities": 15,
+      "activities": [
+        {
+          "id": 4,
+          "type": "formal_letter",
+          "context": "Votre entreprise a mis en place une nouvelle politique de gestion du temps qui oblige les employés à faire des heures supplémentaires non rémunérées.",
+          "task": "En tant qu'employé(e), vous écrivez une lettre à la direction pour contester cette politique et proposer des solutions pour une meilleure rémunération et une gestion plus équitable du temps de travail.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 5,
+          "type": "formal_letter",
+          "context": "Votre entreprise a récemment introduit une nouvelle politique de télétravail qui réduit le nombre de jours de présence au bureau.",
+          "task": "Vous pensez que cette politique n'est pas adaptée à toutes les fonctions et pourrait nuire à la collaboration. Vous écrivez une lettre au directeur des ressources humaines pour exprimer vos préoccupations et proposer des modifications.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 6,
+          "type": "formal_letter",
+          "context": "Votre ville a récemment décidé d'augmenter les tarifs des transports en commun pour couvrir les coûts de rénovation des infrastructures.",
+          "task": "Vous trouvez cette augmentation excessive. En tant que citoyen(ne), vous écrivez une lettre au responsable du réseau de transports en commun pour exprimer votre désaccord et proposer des solutions alternatives.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 7,
+          "type": "formal_letter",
+          "context": "Votre entreprise a décidé d'introduire un système de surveillance des performances des employés par des logiciels de suivi des activités sur les ordinateurs.",
+          "task": "En tant qu'employé(e), vous écrivez une lettre au responsable des ressources humaines pour exprimer vos préoccupations concernant la vie privée et le bien-être au travail et vous proposez des solutions plus respectueuses.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 8,
+          "type": "formal_letter",
+          "context": "Une maison d'édition a décidé de ne plus publier certains genres littéraires jugés moins rentables.",
+          "task": "En tant que lecteur(trice) passionné(e) de ces genres, vous écrivez une lettre au responsable d'édition pour exprimer votre déception et argumenter sur la diversité et l'importance de maintenir une offre variée pour satisfaire tous les lecteurs.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 9,
+          "type": "formal_letter",
+          "context": "Vous habitez près de la mer en France. Pendant l'été, la mairie a donné l'autorisation à plusieurs bars et restaurants de s'installer sur la plage.",
+          "task": "Vous décidez d'écrire une lettre au maire de la ville pour lui montrer votre préoccupation. Vous lui parlez des dangers pour l'environnement et vous lui proposez des solutions.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 10,
+          "type": "formal_letter",
+          "context": "Vous habitez en France. Chaque année, la municipalité organise une course solidaire. Par manque de moyens, la mairie a décidé de la supprimer cette année.",
+          "task": "Vous décidez d'écrire une lettre au maire de votre ville pour montrer votre mécontentement et le convaincre de maintenir cette activité sportive en insistant sur les avantages pour la municipalité.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 11,
+          "type": "formal_letter",
+          "context": "Vous habitez à Bruxelles. La mairie a décidé de supprimer les graffitis réalisés pour une exposition de street art dans votre quartier.",
+          "task": "En tant que porte-parole d'une association culturelle, vous décidez d'écrire une lettre à la mairie pour vous plaindre de cette décision et pour montrer les avantages de conserver les graffitis pour la ville.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 12,
+          "type": "formal_letter",
+          "context": "Vous travaillez dans une entreprise à Québec. Vous mangez tous les jours au restaurant d'entreprise et vous avez remarqué qu'un grand nombre de plats et d'aliments sont jetés à la poubelle.",
+          "task": "En tant que responsable du personnel, vous écrivez une lettre au directeur pour l'informer de ce problème et lui proposer des alternatives plus durables.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 13,
+          "type": "formal_letter",
+          "context": "Vous habitez en Belgique. Depuis plusieurs mois, vous avez remarqué que le nombre de panneaux publicitaires a augmenté sur les façades des immeubles de votre quartier, ce qui a un impact visuel négatif.",
+          "task": "Vous écrivez au maire de la ville pour montrer votre mécontentement et pour lui proposer des alternatives.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 14,
+          "type": "formal_letter",
+          "context": "Vous habitez un immeuble en France. Depuis plusieurs semaines, votre voisin d'en face réalise des travaux particulièrement bruyants dans son appartement et refuse de prendre en considération vos plaintes.",
+          "task": "Vous écrivez un courrier au syndicat de l'immeuble où vous expliquez votre vécu et leur demandez de prendre des mesures pour faire cesser ces nuisances.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 15,
+          "type": "formal_letter",
+          "context": "Vous recevez une amende pour stationnement gênant à Nice (France). Pourtant, vous n'avez jamais garé votre voiture de façon irrégulière.",
+          "task": "Vous écrivez aux autorités compétentes pour demander une explication et contester la sanction reçue. Vous en profitez pour vous plaindre du manque de places de stationnement gratuites dans la ville et du prix élevé des parkings privés.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 16,
+          "type": "formal_letter",
+          "context": "Vous êtes membre actif d'une association caritative francophone qui doit renouveler sa direction. L'association lance un appel à candidatures pour élire ses nouveaux responsables.",
+          "task": "Vous décidez de vous présenter. Vous rédigez une lettre de candidature à l'attention des responsables sortants, où vous exprimez vos motivations et les projets que vous aimeriez développer si vous êtes élu(e).",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 17,
+          "type": "formal_letter",
+          "context": "Vous avez inscrit vos enfants à la cantine de l'école, en Belgique francophone, mais vous n'êtes pas satisfait(e) ni de la qualité de ce service, ni de la professionnalité des employés.",
+          "task": "Vous rédigez une lettre au directeur de l'école où vous vous plaignez de la situation en citant des exemples précis. Enfin, vous réclamez des mesures pour y remédier.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 18,
+          "type": "formal_letter",
+          "context": "Vous possédez un terrain dans une commune rurale française et souhaitez y construire un commerce, qui pourrait contribuer au développement de l'économie locale.",
+          "task": "Cependant, le maire refuse de vous accorder le permis de construire. Vous contestez cette décision et présentez des arguments en faveur de ce projet, qui dynamiserait la vie du village.",
+          "requirements": "250 mots minimum"
+        }
+      ]
+    },
+    "reader_response": {
+      "title": "Répondre aux lecteurs",
+      "num_activities": 15,
+      "activities": [
+        {
+          "id": 19,
+          "type": "reader_response",
+          "stimulus": "Anita: \"Bonjour, J'ai vu que des projets de jardins communautaires en milieu urbain sont en développement pour encourager l'agriculture locale. Je trouve que cela n'est pas une priorité.\"",
+          "task": "Vous lisez ce message sur un forum. Vous y répondez dans un texte argumenté en exprimant votre point de vue de manière claire et détaillée.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 20,
+          "type": "reader_response",
+          "stimulus": "Cyril: \"Bonjour, J'ai lu que certaines entreprises veulent réduire les heures de travail hebdomadaires pour améliorer la qualité de vie des employés. Je pense que cela pourrait nuire à la productivité.\"",
+          "task": "Vous lisez ce message sur un forum. Vous y répondez dans un texte argumenté en exprimant votre point de vue de manière claire et détaillée.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 21,
+          "type": "reader_response",
+          "stimulus": "Corinne: \"Bonjour, Il a été proposé d'interdire les voitures dans les parkings des centres commerciaux pour encourager l'utilisation des transports en commun. Je pense que cela serait très contraignant pour les clients.\"",
+          "task": "Vous lisez ce message sur un forum. Vous y répondez dans un texte argumenté en exprimant votre point de vue de manière claire et détaillée.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 22,
+          "type": "reader_response",
+          "context": "Le magazine de votre université invite ses lecteurs à s'exprimer sur l'introduction de cours de développement personnel dans les programmes universitaires.",
+          "task": "Vous décidez de répondre au courrier des lecteurs dans un texte argumenté en exprimant votre point de vue de manière claire et détaillée.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 23,
+          "type": "reader_response",
+          "context": "Vous lisez dans un magazine que les voitures à essence vont être interdites en centre-ville d'ici 2030.",
+          "task": "Vous pensez que c'est une bonne initiative pour l'environnement, mais que cela pénalisera ceux qui ne peuvent pas acheter de voiture électrique. Vous écrivez un texte argumenté pour exprimer votre point de vue.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 24,
+          "type": "reader_response",
+          "context": "Vous venez de lire un article dans une revue scientifique sur la généralisation de la téléconsultation en France.",
+          "task": "Vous décidez de réagir et d'écrire au courrier des lecteurs. Tout en reconnaissant les avantages de cette pratique, vous montrez les dangers et les risques pour les patients et les médecins des téléconsultations.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 25,
+          "type": "reader_response",
+          "context": "Vous avez lu un article sur l'utilisation de l'intelligence artificielle à l'école primaire.",
+          "task": "En tant que parent d'élève, vous décidez de réagir à cet article à travers un courrier des lecteurs. Tout en reconnaissant les avantages de l'intelligence artificielle pour l'apprentissage, vous mettez en garde sur les dangers de son utilisation à l'école primaire.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 26,
+          "type": "reader_response",
+          "context": "Vous venez de lire un article dans le journal de votre ville concernant l'interdiction des trottinettes électriques en centre-ville.",
+          "task": "Vous décidez de réagir en envoyant une lettre adressée au courrier des lecteurs. Vous donnez votre point de vue sur cette mesure et vous proposez des alternatives aux trottinettes électriques pour les déplacements en centre-ville.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 27,
+          "type": "reader_response",
+          "context": "Un célèbre site de voyages vient de lancer le débat suivant: « Voyager grâce aux visites virtuelles, une nouvelle manière de faire du tourisme ? »",
+          "task": "Vous décidez de participer au débat en répondant clairement à cette question. Vous présentez les avantages et les inconvénients des visites virtuelles en vous basant sur des exemples précis.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 28,
+          "type": "reader_response",
+          "stimulus": "Message sur un blog professionnel: « Les tatouages ont-ils un impact négatif lors d'un entretien d'embauche ? »",
+          "task": "Vous décidez de participer au débat en publiant un message. Vous donnez votre opinion personnelle à ce sujet en vous appuyant sur des arguments précis et des exemples basés sur des expériences diverses.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 29,
+          "type": "reader_response",
+          "context": "Vous êtes abonné(e) à un magazine de sciences humaines que vous appréciez. Vous regrettez néanmoins l'absence d'articles sur les questions de genre et le manque d'intégration de la problématique féministe dans les articles généralistes.",
+          "task": "Vous écrivez au courrier des lecteurs pour souligner cette lacune et encourager la rédaction à y remédier.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 30,
+          "type": "reader_response",
+          "context": "Vous êtes un(e) fidèle lecteur(trice) d'un magazine sur l'histoire.",
+          "task": "Vous écrivez au courrier des lecteurs pour féliciter les journalistes et leur proposer un nouveau thème historique. Vous exposez les raisons qui vous ont conduit à choisir ce sujet et expliquez pourquoi, selon vous, il susciterait l'intérêt de l'ensemble des lecteurs.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 31,
+          "type": "reader_response",
+          "context": "Vous êtes abonné(e) à un magazine d'innovation scientifique. Vous tombez sur un article qui, selon vous, repose sur des hypothèses fantaisistes, plus dignes d'un roman de science-fiction que d'un journal rigoureux.",
+          "task": "Vous écrivez au courrier des lecteurs pour transmettre vos réflexions et les encourager à réagir pour rétablir la qualité de la publication.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 32,
+          "type": "reader_response",
+          "stimulus": "Sur un forum en ligne, vous trouvez un débat sur le thème suivant: « Pourquoi payer des impôts pour la sauvegarde du patrimoine et des œuvres d'art ? »",
+          "task": "Vous décidez de participer au forum. Vous rédigez un billet pour présenter votre opinion sur le thème de manière structurée et argumentée en y intégrant des exemples précis.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 33,
+          "type": "reader_response",
+          "stimulus": "Vous trouvez sur un forum internet un débat intitulé « Débattre vraiment! Peut-on encore se parler sans violence ? »",
+          "task": "Intéressé(e), vous décidez de participer au débat. Vous exprimez votre point de vue de manière structurée et argumentée sur la question en vous appuyant sur votre expérience et sur des exemples concrets.",
+          "requirements": "250 mots minimum"
+        }
+      ]
+    },
+    "article": {
+      "title": "Rédiger un article",
+      "num_activities": 15,
+      "activities": [
+        {
+          "id": 34,
+          "type": "article",
+          "topic": "La place des femmes dans le monde professionnel.",
+          "task": "La place des femmes dans le monde professionnel a évolué, mais des défis persistent. Vous pensez qu'il y a encore beaucoup à faire. Vous rédigez un article où vous analysez cette situation et proposez des solutions pour favoriser l'égalité, en vous appuyant sur des exemples concrets pour développer vos arguments et vos idées.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 35,
+          "type": "article",
+          "topic": "Le rôle des médias dans la société.",
+          "task": "Les médias jouent un rôle très important dans notre société. Vous décidez de rédiger un article dans lequel vous examinez leur influence sur l'opinion publique et sur la démocratie. Vous développez vos arguments à l'aide d'exemples précis, puis vous proposez des moyens et des solutions pour assurer une information fiable et de qualité.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 36,
+          "type": "article",
+          "topic": "La consommation responsable.",
+          "task": "De nos jours, la consommation responsable est essentielle pour un développement durable. Vous rédigez un article dans lequel vous développez cette idée et exposez votre point de vue, en illustrant vos arguments à l'aide d'exemples pertinents de pratiques écoresponsables et en suggérant des actions concrètes à adopter pour consommer de manière plus responsable.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 37,
+          "type": "article",
+          "topic": "L'importance du bénévolat.",
+          "task": "Vous estimez que le bénévolat a un rôle fondamental à jouer dans notre société. Vous décidez d'écrire un article où vous discutez de son importance et de ses bénéfices, en illustrant vos arguments à l'aide d'exemples précis et en proposant des moyens concrets pour encourager davantage de personnes à s'engager bénévolement.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 38,
+          "type": "article",
+          "topic": "Le vieillissement de la population.",
+          "task": "Vous pensez que le vieillissement de la population pose de nombreux défis. Vous rédigez un article où vous analysez ces défis, en utilisant des exemples précis pour étayer vos arguments et en proposant des solutions pour mieux prendre en charge les personnes âgées tout en améliorant leurs conditions de vie.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 39,
+          "type": "article",
+          "topic": "L'écriture manuscrite va-t-elle disparaître ?",
+          "task": "Un site internet fait un appel à contribution sur le thème suivant: « L'écriture manuscrite va-t-elle disparaître ? » Vous décidez de participer en rédigeant un article dans lequel vous défendez votre opinion personnelle. Vous exposez les avantages de l'écriture manuscrite en présentant des arguments illustrés d'exemples précis et en vous basant sur votre expérience personnelle.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 40,
+          "type": "article",
+          "topic": "Pollution plastique sur les plages.",
+          "task": "Vous habitez en France, près de la plage. Depuis plusieurs mois, vous avez remarqué que le nombre de déchets plastiques présents sur le sable avait augmenté. Vous décidez de dénoncer cette pratique à travers un article. Vous alertez des dangers que cette pollution présente pour l'environnement et vous proposez des solutions pour protéger les plages.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 41,
+          "type": "article",
+          "topic": "Potagers de balcon (légumes et plantes aromatiques).",
+          "task": "Comme beaucoup de Français, vous avez planté des légumes et des plantes aromatiques sur votre balcon. Vous décidez de partager votre expérience dans un article pour encourager les habitants à se lancer dans cette pratique. Vous parlez des avantages du point de vue de la santé et du point de vue économique de ce type de jardin.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 42,
+          "type": "article",
+          "topic": "Déclin de la télévision au profit des plateformes payantes.",
+          "task": "Vous avez remarqué que de moins en moins de personnes regardent la télévision et qu'elles préfèrent voir des séries ou des films sur des plateformes payantes. Tout en reconnaissant les avantages des plateformes payantes, vous rédigerez un article dans lequel vous alerterez sur les problèmes que pourrait provoquer la disparition de la télé pour la société à travers un article.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 43,
+          "type": "article",
+          "topic": "Reconversion professionnelle radicale.",
+          "task": "En France, de plus en plus de personnes suivent des formations professionnelles dans le but de changer radicalement de profession. En tant que spécialiste des ressources humaines, vous rédigez un article dans lequel vous expliquez les causes de cette nouvelle tendance et les avantages de celle-ci pour les employés, à partir d'expériences diverses et d'arguments précis.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 44,
+          "type": "article",
+          "topic": "Bornes de distribution d'aliments locaux.",
+          "task": "Une borne automatique de distribution d'aliments locaux vient d'être installée dans votre quartier. Vous appréciez la disponibilité des fruits et légumes des environs et l'amplitude des horaires, mais vous regrettez le manque de contact humain avec les agriculteurs. Vous rédigez un article dans le journal du quartier pour exprimer vos regrets face à ce manque et pour proposer des solutions.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 45,
+          "type": "article",
+          "topic": "L'école par correspondance (expatriés).",
+          "task": "Dans un magazine pour expatriés, vous rédigez un article sur l'école par correspondance. Vous y abordez différentes problématiques telles que l'isolement, l'enseignement dans plusieurs langues, la nécessité d'une implication parentale ou encore les avancées et limites des nouvelles technologies pour l'enseignement à distance. Vous illustrez vos propos d'exemples précis vécus ou entendus.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 46,
+          "type": "article",
+          "topic": "Le gaspillage alimentaire.",
+          "task": "Vous écoutez un reportage sur le gaspillage alimentaire à la télévision. Choqué(e) par la banalisation de cette situation, vous décidez d'écrire un article pour réveiller les consciences. Vous y exposez votre point de vue de manière argumentée et proposez des solutions concrètes pour lutter contre le gaspillage alimentaire et sa normalisation.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 47,
+          "type": "article",
+          "topic": "Radars et contrôle de vitesse.",
+          "task": "Vous passez régulièrement devant un radar pour aller au travail, comme de nombreux collègues. Vous décidez de rédiger un article sur le sujet pour le journal d'entreprise. Vous y présentez votre opinion sur ce mode de contrôle de vitesse et vous interrogez son efficacité pour réduire les excès de vitesse et améliorer la sécurité routière.",
+          "requirements": "250 mots minimum"
+        },
+        {
+          "id": 48,
+          "type": "article",
+          "topic": "Réforme des rythmes scolaires au lycée.",
+          "task": "Vous êtes un(e) proche d'un jeune lycéen. Il est épuisé et souffre d'un manque de sommeil chronique, dû au rythme scolaire. Choqué(e) par la situation, vous décidez de rédiger un article sur la nécessaire réforme des rythmes scolaires au lycée. Vous y critiquez le système actuel de manière argumentée et proposez des solutions concrètes.",
+          "requirements": "250 mots minimum"
+        }
+      ]
+    }
+  }
+}
