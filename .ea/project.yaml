@@ -1,0 +1,7 @@
+name: delf
+category: app
+origin: original
+scope: personal
+status: hold
+stack: [typescript, electron, react]
+description: DELF B2 French exam practice app with AI-powered writing and speaking evaluation
